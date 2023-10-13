@@ -3,21 +3,30 @@
 }
 
 body {
-	/* put your code here */
+	background-color: #F3FFFD;
 }
 
 h1 {
-	/* put your code here */
+	font-size: 56px;
 }
 
 h2 {
-	/* put your code here */
+	color: #3D403F;
+ 	text-decoration: underline;
 }
 
 section {
-	/* put your code here */
+	width: 650px;
+	background-color:  #F3FFF0;
+	margin: 30px;
+	padding: 30px;
+	border-width: 30px;
+	border-style: solid;
+	border-color: black;
 }
 
 p {
-	/* put your code here */
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 30px;
+	color: #3d403c;
 }
