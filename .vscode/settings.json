@@ -8,5 +8,6 @@
 		"flexwrap",
 		"photoshop",
 		"rgba"
-	]
+	],
+	"liveServer.settings.port": 5501
 }
